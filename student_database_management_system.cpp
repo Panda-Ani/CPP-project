@@ -1,3 +1,11 @@
+/*
+This student database managagment system has the following features:
+1.Adds the students in two courses of Jee and Neet those who qualify the criteria of tenth mark above 85% and Entrance mark abov 60%.
+2.OOPs has been used to make the code more structured and readable.
+3.File Handling has been used to maintain the records.
+4.You can see the students mentioned in JEE course / NEET course or both.
+*/
+
 #include <iostream>
 #include <string>
 #include <fstream>
