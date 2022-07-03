@@ -1,0 +1,10 @@
+Student Name: Joe Rogan
+Mobile Number: 6371158729
+10th Marks: 99.8%
+Entrance Marks: 100%
+
+Student Name: Gordan Ramsey
+Mobile Number: 126376912
+10th Marks: 93%
+Entrance Marks: 91%
+
